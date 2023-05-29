@@ -1,4 +1,4 @@
-lsimport random
+import random
 
 MAX_LINES = 3
 MAX_BET = 100
