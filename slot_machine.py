@@ -1,7 +1,7 @@
 import random
 
 MAX_LINES = 3 #max number of lines
-MAX_BET = 100
+MAX_BET = 100 #max amount user can bet
 MIN_BET = 1
 
 ROWS = 3
